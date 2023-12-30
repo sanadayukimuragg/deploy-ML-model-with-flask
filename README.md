@@ -1,5 +1,13 @@
 # deploy-ML-model-with-flask
 
+## Cara Penggunaan
+Cara penggunaan model yang telah di deploy menggunakan flask ini salah satunya dalah menggunakan Anaconda Navigator, jika belum ada anda bisa mendownloadnya disini : https://docs.anaconda.com/anaconda/install/windows/ . Setelah selesai diinstall langkah selanjutnya ialah buka aplikasinya dan masuk ke bagian environment, pilih environment yang akan anda gunakan, kemudian tekan tombol play, dan pilih open terminal.
+kemudian masuk ke folder project lewat terminal dengan menggunakan perintah cd, setelah itu ketik 
+                                                            python app.py
+dan setelah beberapa saat akan ada output untuk link websitenya contohnya seperti ini :
+                                                Running on http://127.0.0.1:5000/
+
+
 ## Dataset 
 Dataset yang digunakan dalam training adalah gambar berupa suit batu gunting kertas, pada model yang di deploy bisa menggunakan gambar pose suit tersebut
 
